@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I am a passionate UI/UX developer with a strong ba
 
 - **Role**: UI/UX Developer
 - **Technologies Used**: Html5, CSS3, JavaScript, Typescript, Angular 2, 8, Node JS, D3 Js, Ionic , Cordova, SQLite
-- - **Responsibility** :
+- **Responsibility** :
 - •	Makes high-level design choices and frames technical standards.
 •	Ensure the implementation of agreed architecture and infrastructure.
 •	Conducting and participating in Technical and Functional review sessions with delivery team members.
@@ -46,6 +46,21 @@ Welcome to my GitHub profile! I am a passionate UI/UX developer with a strong ba
 
 - **Role**: UI/UX Developer
 - **Technologies Used**: Html5, CSS3, JavaScript, Typescript, Angular 2 & 4, Node JS, D3 Js, Bootstrap, Angular CLI.
+-  **Responsibility** :
+• Developing advanced robust UI for web and mobile application.
+•	Testing and validating work produced as part of the development process.
+•	Creating the interactive graphs by using D3 and other libraries.
+
+### Key Skills and Competencies
+•	10+ years’ experience in the design, development, and use of component-based UI architectures. An additional consideration for experience writing JavaScript-based plugins. 
+•	Having 12+ Years of experience in HTML5, CSS3, JavaScript, and OOJS, and Strong experience in Object Oriented JavaScript and Design Patterns.
+•	Having 9+ Years of experience in Angular JS which includes 7+ years of current experience in Angular 2.X to 14.X, Typescript, Cordova, SQLite.
+•	Having 5+ Years of experience in D3 Js, NVD3.
+•	Having 6+ Years of experience in Node JS, and Typescript.
+•	3+ Years of Solution architecture experience.
+•	Ability to do multi-task, react quickly to shifting priorities, and meet deadlines.
+•	Able to clearly communicate technical data to nontechnical colleagues and clients.
+•	Excellent attention to detail both front and back end.
 
 ## 🌐 Connect with Me
 
