@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a passionate UI/UX developer with a strong ba
 - **Front-End Development**: HTML5, CSS3, JavaScript, jQuery, OOJS, Ionic, Cordova,  Angular JS, Angular 2 to 17.x, AgGrid, Typescript, RXJS, NgRx, D3 JS, C3 JS, Plotly, Gmap API, Material, Bootstrap, SASS, LESS, Node JS, Express Js, Webpack, ECMA Scripts, Jasmine, Protractor, FlatUI, MetroUI, React Js, Reactive Programming, Functional Programing.
 - **Back-End Development**: Node.js, Express Js, MySQL, MongoDB, PostgreSQL
 - **UI/UX Design**: Prototyping, Wireframing, User Research, Usability Testing
--  **Secondary Skill**:Qlik, Tableau
+-  **Secondary Skills**:Qlik, Tableau
 -  **Task Runner & CI/CD**: Gulp, Grunt, Karma, Jenkins, Udeploy and TeamCity.
 
 ## 📂 Projects
