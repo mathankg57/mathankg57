@@ -1,7 +1,3 @@
-Sure! Here's a tailored README.md file for your GitHub profile as a UI/UX developer with your specified skill set:
-
----
-
 # 👋 Hello, I'm Mathan Krishnasamy- UI/UX Developer /Architect
 
 Welcome to my GitHub profile! I am a passionate UI/UX developer with a strong background in creating dynamic, user-friendly web applications. My expertise lies in both designing intuitive interfaces and developing robust front-end and back-end solutions.
@@ -72,6 +68,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 - Email: [mathan.kg@gmail.com](mailto:mathan.kg@gmail.com)
 
----
-
-This README.md file showcases your skills, projects, and ways to connect with you in a clear and organized manner. Make sure to replace placeholder text with your actual information and update the links to your projects, portfolio, and social profiles.
