@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mathan Krishnasamy- UI/UX Developer /Architect
+# 👋 Hello, I'm Mathan Krishnasamy- UI/UX Architect
 
 Welcome to my GitHub profile! I am a passionate UI/UX developer with a strong background in creating dynamic, user-friendly web applications. My expertise lies in both designing intuitive interfaces and developing robust front-end and back-end solutions.
 
